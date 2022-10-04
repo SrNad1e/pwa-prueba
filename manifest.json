@@ -1,0 +1,20 @@
+{
+  "name": "Toulouse Intimate",
+  "short_name": "Toulouse",
+  "theme_color": "#dc9575",
+  "description": "Bienvenidos a Toulouse Intimate",
+  "background_color": "#dc9575",
+  "orientation": "portrait",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./?utm_source=web_app_manifest",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
