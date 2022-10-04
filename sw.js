@@ -2,7 +2,9 @@
 const CACHE_NAME = 'v2_cache_toulouse',
     urlsToCache = [
         './',
-        "./img/1024.png"
+        "./img/1024.png",
+        'pwa-prueba/',
+        '/pwa-prueba/'
     ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
